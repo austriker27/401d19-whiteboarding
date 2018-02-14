@@ -34,3 +34,6 @@ Remember, whatever you do, don't get frustrated.
 - test examples (at least 1) in pseudo code
 - **practice syntax without a computer (on paper!)**
 - practice looking confident
+- make sure my example is not too simple
+- write down any examples given by the instructor
+- big O, big O, big O, big 
