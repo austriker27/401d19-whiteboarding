@@ -17,7 +17,7 @@ Remember, whatever you do, don't get frustrated.
       - mix of data values
     - assumptions
 - work through an example, and test for edge cases
-- think about implementation, psuedo code an answer
+- think about implementation, pseudo code an answer
 - write out the code
 - test the code with correct input and edge cases
 
@@ -26,3 +26,11 @@ Remember, whatever you do, don't get frustrated.
   - otherwise, think out loud
 - if you are stuck, start talking 
 - Don't ask for help or confirmation
+
+### Personal feedback for me from interviewers:
+- spend more time on the problem itself and white boarding
+- Improve on learning Big O time and memory (extra space generated)
+- refactor in pseudo code not real code
+- test examples (at least 1) in pseudo code
+- **practice syntax without a computer (on paper!)**
+- practice looking confident
