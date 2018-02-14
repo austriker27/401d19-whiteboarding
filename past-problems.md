@@ -16,3 +16,6 @@
 - given an array of integers calculate the max product of 2 numbers in the array
 - build a queue using 2 stacks (dont create an array)
 - write a function that takes a list of points and current location and returns the closest point
+- on a binary tree, find the closest common ancestor on the tree given 2 numbers
+- define a BT as complete if eery possible node except leaves have 2 children and all leaves are on the same level
+- 
